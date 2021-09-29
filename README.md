@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img align="left" alt="Sid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=djdheeraj5701&show_icons=true&hide_border=true" />
 
 **djdheeraj5701/djdheeraj5701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img align="left" alt="Sid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=djdheeraj5701&show_icons=true&hide_border=true" />
